@@ -4,6 +4,6 @@ Companion code to the paper A Cognitive Behavioral Therapy Chatbot Powered by GP
 
 A one-shot counsel bot powered by GPT-3 that answers mental health questions using knowledge about CBT diagnosis and treatment.
  
-Run Ask_CBT_BOT.py in terminal inserting your OPENAI key after the --key arguement and your mental health question after the --question arguement.
+Run Ask_CBT_Bot.py in terminal inserting your OPENAI key after the --key arguement and your mental health question after the --question arguement.
  
 
