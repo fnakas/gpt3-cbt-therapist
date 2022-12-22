@@ -1,4 +1,4 @@
-# Ask_CBT_bot
+# Mental health CBT bot powered by GPT-3
 
 A one-shot counsel bot powered by GPT-3 that answers mental health questions using knowledge about CBT diagnosis and treatment.
 
